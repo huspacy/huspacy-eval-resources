@@ -1,3 +1,3 @@
-# HuSpaCy Evaluation Resources
+# HuSpaCy Resources
 
-This repository contains scripts and resources for debugging and evaluating HuSpaCy's models.
+This repository contains scripts and resources for training, debugging and evaluating HuSpaCy's models.

@@ -83,10 +83,5 @@ target/
 # Virtual envs
 .venv/
 
-/data
-/models
-/packages
-/hu_*/metrics
-hu_core_news_lg/wandb
+# Pytest
 .pytest_cache
-/hub

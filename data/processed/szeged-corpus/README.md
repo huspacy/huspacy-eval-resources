@@ -7,6 +7,9 @@ thus it might contain some errors.
 
 # Morph Changelog
 - 2022-09-16
+  - Removed ProntType=Default
+  - Replace Definite=Indef to Definite=Ind
+  - Replace Cas=none|SubPOS=c to Case=Nom|Number=Sing
   - Removed PronType=Dem when the token is "olyan" as a ADV
   - Replaced Mood=Ind to Mood=Pot when the token is "lehet" and "kerülhet" as a VERB
   - Replaced Voice=Act to Voice=Cau when the token is "tájékoztatta" as a VERB

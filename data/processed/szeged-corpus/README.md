@@ -6,8 +6,11 @@ overlapping with the [UD Hungarian](https://universaldependencies.org/treebanks/
 thus it might contain some errors.
 
 # Morph Changelog
+- 2022-09-27
+  - Case=Sub now means subessive in corpus; sublative relabeled to Case=Sbl.
+
 - 2022-09-16
-  - Removed ProntType=Default
+  - Removed PronType=Default
   - Replace Definite=Indef to Definite=Ind
   - Replace Cas=none|SubPOS=c to Case=Nom|Number=Sing
   - Removed PronType=Dem when the token is "olyan" as a ADV

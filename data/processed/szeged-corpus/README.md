@@ -5,7 +5,11 @@ overlapping with the [UD Hungarian](https://universaldependencies.org/treebanks/
 (which is a subcorpus of the Szeged Corpus). UD annotations are automagically converted from the original annotation,
 thus it might contain some errors.
 
-# Morph Changelog
+# Changelog
+
+- 2023-10-24
+  - Fixed lemmata of errounously HTML encoded numerical tokens
+
 - 2022-09-27
   - Case=Sub now means subessive in corpus; sublative relabeled to Case=Sbl.
 
